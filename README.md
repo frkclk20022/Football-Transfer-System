@@ -56,4 +56,4 @@ Contributing
 
 Contributions are welcome! You can submit a pull request or open an issue to suggest improvements.
 
-License
+
